@@ -1,0 +1,23 @@
+{
+  "name": "zqwdemo01",
+  "version": "0.0.1",
+  "description": "测试",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zengqingwei0917/zqwdemo01.git"
+  },
+  "author": "zqw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zengqingwei0917/zqwdemo01/issues"
+  },
+  "homepage": "https://github.com/zengqingwei0917/zqwdemo01#readme",
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "jquery": "^1.12.4"
+  }
+}
